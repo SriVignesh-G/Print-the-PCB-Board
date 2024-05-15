@@ -1,4 +1,6 @@
 # Print-the-PCB-Board
+## Name: Sri Vignesh G
+## Reg No: 212223040204
 # Aim
 To Print PCB board based on your circuit.
 
@@ -63,11 +65,6 @@ License: Mach3 Mill may require purchasing a license for full functionality, dep
 System Requirements: Ensure that your computer meets the minimum system requirements specified by Mach3 Mill for optimal performance.
 Safety: Follow proper safety protocols and guidelines when operating CNC machines to prevent accidents and ensure operator safety.
 Overall, Mach3 Mill software provides powerful capabilities for PCB engraving, drilling, and cutting, enabling manufacturers to achieve precise and efficient PCB fabrication processes.
-
-# Output
-
-
-
 
 # Result
 Thus the engraving,drilling, cutting and masking operation are performed to develop the bare board.
